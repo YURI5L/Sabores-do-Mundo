@@ -8,7 +8,7 @@ _________________________
    <img src="https://raw.githubusercontent.com/YURI5L/Sabores-do-Mundo/main/6B4A12D6-265F-4C21-A65E-FE7AD7925092.png">
 
  <h2>3. Cenario</h2>
-<p>uma pagina de receitas em um site é como um livro de receitas oline. voce ve fotos de comidas , clica na que gostar e encontra a lista de ingredientes e as intruçoes para fazer a comida paso a paso e tamem voce mesmo pode compartilhar a sua receitas.</p>   
+<p>.site de receitas com comidas de vários países pode oferecer uma variedade de pratos étnicos, fornecer informações sobre ingredientes específicos, técnicas de culinária regionais e até mesmo histórias culturais por trás das receitas. Também pode incluir recursos interativos, como ferramentas de busca por país ou tipo de prato, e fóruns para compartilhar experiências e dicas culinárias.   .</p>   
       
 <h2>4. Requisitos funcionais</h2>
  <p>- Cadastro de Usuarios</p>
