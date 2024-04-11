@@ -16,7 +16,7 @@ _________________________
  <p>- Integração com redes socias</p>
  <p>- Gerenciamento de Perfil</p>
  <p>- Categoria de Receitas</p>
- <p>- Termos de Politicas de Privacidade</p>
+ <p>- Avaliações e Comentarios</p>
  <p>- Notificaçaoes</p>
  <p>- Lista de Favoritos</p>
 
