@@ -5,7 +5,7 @@ _________________________
  <h1>1. Nome da solução</h1> 
  <h3>Sabores-do-Mundo &#9733; &#9733; &#9733;</h3>
 <h2>2. Logotipo da solução</h2>
-   <img src="https://raw.githubusercontent.com/YURI5L/Sabores-do-Mundo/main/6B4A12D6-265F-4C21-A65E-FE7AD7925092.png">
+   <img src="https://www.canva.com/design/DAGCgTEy1aU/lalGBVCLg3YKC9fGfmlGsg/edit?utm_content=DAGCgTEy1aU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
  <h2>3. Cenario</h2>
 <p>.site de receitas com comidas de vários países pode oferecer uma variedade de pratos étnicos, fornecer informações sobre ingredientes específicos, técnicas de culinária regionais e até mesmo histórias culturais por trás das receitas. Também pode incluir recursos interativos, como ferramentas de busca por país ou tipo de prato, e fóruns para compartilhar experiências e dicas culinárias.   .</p>   
