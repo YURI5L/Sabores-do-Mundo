@@ -2,7 +2,7 @@
 ### por: Yuri.l
 -----------------
 <h3>prof: Fabiano Taguchi</h3>
-_________________________
+--------------------
  <h1>1. Nome da solução</h1> 
  <h3>Sabores-do-Mundo &#9733; &#9733; &#9733;</h3>
 <h2>2. Logotipo da solução</h2>
